@@ -3,10 +3,7 @@ title: 赖彦钊
 role: 联合创始人兼总经理
 avatar_filename: avatar.jpg
 bio: 主要研究方向为程序化交易、企业并购、风险投资等
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -34,4 +31,4 @@ authors:
 user_groups:
   - Partner
 ---
-公司联合创始人兼总经理。华中科技大学数学学士，北卡罗来纳大学数学硕士，波士顿大学经济学硕士，乔治华盛顿大学经济学博士。曾任职于广发证券投资银行、中国民生银行、华润资产管理公司以及世界银行。
+公司联合创始人兼总经理。曾任职于广发证券投资银行、中国民生银行、华润资产管理公司以及世界银行。
