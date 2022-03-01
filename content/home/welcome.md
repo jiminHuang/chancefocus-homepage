@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+自2014年创立起，**乾阜资产**致力于结合人工智能与传统金融及经济理论构建更便宜高效的市场渠道。
