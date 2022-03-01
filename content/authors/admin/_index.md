@@ -25,7 +25,7 @@ education:
       year: 2000
 superuser: true
 user_groups:
-  - 合伙人
+  - Partner
 highlight_name: false
 email: ""
 ---
