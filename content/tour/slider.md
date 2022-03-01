@@ -16,7 +16,7 @@ design:
 content:
   slides:
   - title: 👋 欢迎了解乾阜
-    content: 了解我们在思考什么
+    content: 我们在思考什么
     align: center
     background:
       position: right
