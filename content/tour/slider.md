@@ -15,33 +15,19 @@ design:
 
 content:
   slides:
-  - title: 👋 Welcome to the group
-    content: Take a look at what we're working on...
+  - title: 👋 欢迎了解乾阜
+    content: 了解我们在思考什么
     align: center
     background:
       position: right
       color: '#666'
       brightness: 0.7
       media: coders.jpg
-  - title: Lunch & Learn ☕️
-    content: 'Share your knowledge with the group and explore exciting new topics together!'
+  - title: 金融与人工智能交融的前沿研究
+    content: '传统可解释性的金融理论与最新黑盒的人工智能研究交叉互补从而产生新的知识与发现'
     align: left
     background:
       position: center
       color: '#555'
       brightness: 0.7
-      media: contact.jpg
-  - title: World-Class Semiconductor Lab
-    content: 'Just opened last month!'
-    align: right
-    background:
-      position: center
-      color: '#333'
-      brightness: 0.5
-      media: welcome.jpg
-    link:
-      icon: graduation-cap
-      icon_pack: fas
-      text: Join Us
-      url: ../contact/
----
+      media: knowledge.jpg
