@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '版权所有 © {year} 乾阜商务咨询(武汉)有限公司 鄂ICP备19023511号-1'
+    notice: '版权所有 © {year} 乾阜商务咨询(武汉)有限公司 <a href="https://beian.miit.gov.cn">鄂ICP备19023511号-1</a>'
 
 # Localization
 
