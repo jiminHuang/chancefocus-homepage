@@ -1,7 +1,7 @@
 ---
 title: 韩玮光
 role: 实习生
-avatar_filename: avatar
+avatar_filename: avatar.jpg
 bio: ""
 social: []
 education:
