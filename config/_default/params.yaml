@@ -60,7 +60,7 @@ features:
       - r
       - latex
   math:
-    enable: false
+    enable: true
   diagram:
     enable: false
   privacy_pack:
@@ -73,9 +73,9 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: 'disqus'
     disqus:
-      shortname: ''
+      shortname: 'chancefocus'
       show_count: true
     commento:
       url: ''
