@@ -16,10 +16,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-## 下周沪深300预测(11/14/2022 - 11/18/2022)
-
-### 下跌
-
 <iframe src="https://wandb.chancefocus.com/jimin/market-prediction-dataset/reports/2022-11-19---VmlldzoyMjk?accessToken=bync014090e9hwzfbmjbfys897fz7kubsss0cr2ly1wvqnu2aia200niwdxccza3" style="border:none;height:1024px;width:100%">
 
 ### test
