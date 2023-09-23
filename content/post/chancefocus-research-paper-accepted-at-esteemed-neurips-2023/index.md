@@ -15,10 +15,10 @@ tags:
   - finllm
 image:
   filename: https://camo.githubusercontent.com/728c64bb9087dfe35911de3dc62b6441ef00fad37f035725daa0d1d15aa5dd70/68747470733a2f2f692e706f7374696d672e63632f785470576771334c2f70697869752d6c6f676f2e706e67
-  focal_point: Smart
+  focal_point: TOP
   preview_only: false
 ---
-In an emblematic move underscoring our commitment to financial artificial intelligence innovation, ChanceFocus is proud to announce that our research paper, titled "PIXIU: A Comprehensive Benchmark, Instruction Dataset, and Large Language Model for Finance," has secured its place at the respected NeurIPS 2023 Track Datasets and Benchmarks Submission.
+In an emblematic move underscoring our commitment to financial artificial intelligence innovation, ChanceFocus is proud to announce that our research paper, titled "PIXIU: A Comprehensive Benchmark, Instruction Dataset, and Large Language Model for Finance," has secured its place at the respected NeurIPS 2023 Track Datasets and Benchmarks.
 
 The finance realm has long awaited advancements that can harness the potential of Large Language Models (LLMs). Recognizing the industry's gap, our team at ChanceFocus has taken pioneering strides with PIXIU.
 
