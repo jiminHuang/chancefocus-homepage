@@ -1,10 +1,10 @@
 ---
-title: 黄济民
-role: 数据科学家
+title: Jimin Huang
+role: CTO
 avatar_filename: avatar.jpg
-bio: 主要关注资产定价、投资组合构建与配对交易
+bio: Primarily focusing on asset pricing, portfolio construction, and pair trading.
 interests:
-  - 资产定价、投资组合构建与配对交易
+  - Computational Finance
 social:
   - icon: envelope
     icon_pack: fas
@@ -13,15 +13,15 @@ social:
     icon_pack: ai
     link: https://scholar.google.com.hk/citations?user=SnQ_CycAAAAJ&hl=zh-CN
 organizations:
-  - name: 武汉大学
+  - name: Wuhan University
     url: ""
 education:
   courses:
-    - course: 工学硕士
-      institution: 武汉大学
+    - course: MS.E
+      institution: Wuhan University
       year: 2018
-    - course: 工学学士
-      institution: 武汉大学
+    - course: B.E
+      institution: Wuhan University
       year: 2000
 superuser: true
 user_groups:
@@ -29,4 +29,4 @@ user_groups:
 highlight_name: false
 email: ""
 ---
-黄济民是乾阜数据科学家，负责乾阜内数据治理与进一步的开发应用。在武汉大学毕业后，他加入了乾阜并致力于结合人工智能技传统金融问题，例如资产定价、投资组合构建与配对交易。
+Jimin Huang is the CTO of ChanceFocus, overseeing the company's data governance and spearheading its development initiatives. After graduating from Wuhan University, he joined ChanceFocus with a commitment to blending artificial intelligence solutions with traditional financial challenges. Under his leadership, the company has ventured into cutting-edge areas like financial large language models, addressing core issues such as asset pricing, portfolio construction, and pair trading. Jimin's vision and expertise have been instrumental in positioning ChanceFocus at the forefront of financial AI innovation.
