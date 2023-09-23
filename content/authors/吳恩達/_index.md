@@ -1,29 +1,30 @@
 ---
-title: 赖彦钊
-role: 联合创始人兼总经理
+title: Yanzhao Lai
+role: Co-founder and General Manager
 avatar_filename: avatar.jpg
-bio: 主要研究方向为程序化交易、企业并购、风险投资等
+bio: The primary research areas include algorithmic trading, mergers and
+  acquisitions, and venture capital.
 interests: []
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:avariace@chancefocus.com
 organizations:
-  - name: 西南交通大学
+  - name: Southwest Jiaotong University
     url: https://glxy.swjtu.edu.cn/info/1228/11017.htm
 education:
   courses:
-    - course: 数学学士
-      institution: 华中科技大学
+    - course: Bachelor
+      institution: Huazhong University of Science and Technology (HUST)
       year: ""
-    - course: 数学硕士
-      institution: 北卡罗来纳大学
+    - course: Master
+      institution: University of North Carolina
       year: ""
-    - course: 经济学硕士
-      institution: 波士顿大学
+    - course: Master
+      institution: Boston University
       year: ""
-    - institution: 乔治华盛顿大学
-      course: 经济学博士
+    - institution: George Washington University
+      course: Doctor
 email: ""
 superuser: false
 authors:
@@ -31,4 +32,4 @@ authors:
 user_groups:
   - Partner
 ---
-公司联合创始人兼总经理。曾任职于广发证券投资银行、中国民生银行、华润资产管理公司以及世界银行。
+The co-founder and general manager of the company. He has previously held positions at GF Securities Investment Bank, China Minsheng Bank, China Resources Asset Management Company, and the World Bank.
