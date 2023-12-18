@@ -1,5 +1,5 @@
 ---
-title: XiaoZhang
+title: Xiao Zhang
 role: Research Intern
 avatar_filename: avatar.jpg
 bio: ""
